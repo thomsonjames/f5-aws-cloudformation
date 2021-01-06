@@ -348,7 +348,7 @@
                 "AMZNLINUXHVM": "ami-0be2609ba883822ec",
                 "CENTOS7HVM": "ami-02eac2c0129f6376b",
                 "US1404HVM": "ami-00d4e9ff62bc40e03",
-                "US1604HVM": "ami-092546daafcc8bc0d",
+                "US1604HVM": "ami-00ddb0e5626798373",
                 "SLES15HVM": "ami-0b1764f3d7d2e2316"
             },
             "us-east-2": {
