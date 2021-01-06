@@ -345,7 +345,7 @@
                 "SLES15HVM": "ami-0772af912976aa692"
             },
             "us-east-1": {
-                "AMZNLINUXHVM": "ami-00eb20669e0990cb4",
+                "AMZNLINUXHVM": "ami-0be2609ba883822ec",
                 "CENTOS7HVM": "ami-02eac2c0129f6376b",
                 "US1404HVM": "ami-00d4e9ff62bc40e03",
                 "US1604HVM": "ami-092546daafcc8bc0d",
