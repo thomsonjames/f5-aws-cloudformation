@@ -86,16 +86,16 @@
         "AMI":"ami-0b1e3a4386ff536f1"
       }, 
       "us-east-1": {
-        "AMI":"ami-0b783022ff1ae027a"
+        "AMI":"ami-00ddb0e5626798373"
       }, 
       "us-east-2": {
-        "AMI":"ami-0d0b9ea2efef113f9"
+        "AMI":"ami-0dd9f0e7df0f0a138"
       }, 
       "us-west-1": {
-        "AMI":"ami-099150cc504c83a15"
+        "AMI":"ami-0a741b782c2c8632d"
       }, 
       "us-west-2": {
-        "AMI":"ami-0fc06a2d18521ddff"
+        "AMI":"ami-0ac73f33a1888c64a"
       }
     }
   },
