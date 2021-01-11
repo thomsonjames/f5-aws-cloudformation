@@ -424,7 +424,7 @@
                     ]
                 },
                 "Parameters": {
-                    "BastionAMIOS": "Amazon-Linux-HVM",
+                    "BastionAMIOS": "Amazon-Linux2-HVM",
                     "BastionBanner": "",
                     "BastionInstanceType": "t2.micro",
                     "EnableBanner": "false",
